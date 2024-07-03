@@ -1,6 +1,4 @@
-# SQL.Part3.AggregateMethods
-
-Here is your SQL script converted to GitHub-flavored Markdown format:
+# SQL Part 3 Aggregate Methods
 
 ```sql
 -- Set date format
